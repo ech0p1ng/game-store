@@ -1,0 +1,102 @@
+[
+    {
+        "name": "BeamNG.drive",
+        "preview_img": "/games/BeamNG_drive/images/header.jpg",
+        "url": "/games/BeamNG_drive/beamng_drive.html",
+        "price": 465,
+        "tags": "Гонки, симулятор, вождение, разрушения, реализм",
+        "score": 4.8,
+        "game_row": null,
+        "description": "Основанный на физике мягких объектов автомобильный симулятор, способный практически на всё."
+    },
+    {
+        "name": "Insurgency",
+        "preview_img": "/games/Insurgency/images/header.jpg",
+        "url": "/games/Insurgency/insurgency.html",
+        "price": 360,
+        "tags": "Шутер от первого лица, реализм, тактика",
+        "score": 4.6,
+        "game_row": null,
+        "description": "В этой многопользовательской и кооперавтивной игре Вы сражаетесь в кровавых боях на улицах, лицом к лицу с врагом, где выживание Вашей команды зависит от контроля важных точек и уничтожения вражеских боеприпасов, все оперирующее на движке Source. "
+    },
+    {
+        "name": "Overwatch® 2",
+        "preview_img": "/games/Overwatch_2/images/header.jpg",
+        "url": "/games/Overwatch_2/overwatch_2.html",
+        "price": 0,
+        "tags": "Геройский шутер, бесплатная игра, командная",
+        "score": 0.9,
+        "game_row": null,
+        "description": "Overwatch® 2 - бесплатная командная игра в ярком мире будущего с постоянно растущим списком героев. Играйте вместе с друзьями уже сегодня!"
+    },
+    {
+        "name": "Unreal Physics",
+        "preview_img": "/games/Unreal_Physics/images/header.jpg",
+        "url": "/games/Unreal_Physics/unreal_physics.html",
+        "price": 0,
+        "tags": "Казуальная игра, физика, песочница, бесплатная игра",
+        "score": 3.3,
+        "game_row": null,
+        "description": "Unreal Physics — это исследование игровой физики, как никогда раньше. Эта динамичная 3D-песочница включает в себя завораживающую коллекцию демоверсий, демонстрирующих потрясающие визуальные эффекты и реалистичные симуляции. Это игровая площадка безграничных возможностей"
+    },
+    {
+        "name": "Squad",
+        "preview_img": "/games/Squad/images/header.jpg",
+        "url": "/games/Squad/squad.html",
+        "price": 1099,
+        "tags": "Боевые действия, реализм, тактика, шутер",
+        "score": 4.1,
+        "game_row": null,
+        "description": "Squad - многопользовательский шутер от первого лица, достоверно воспроизводящий современный общевойсковой бой с участием до 100 человек благодаря масштабным картам, фортификации, использованию военной техники, а также встроенной позиционной голосовой связи."
+    },
+    {
+        "name": "Half-Life 2",
+        "preview_img": "/games/Half-Life_2/images/header.jpg",
+        "url": "/games/Half-half-life_2.html",
+        "price": 385,
+        "tags": "Шутер от первого лица, экшен, классика",
+        "score": 4.8,
+        "game_row": null,
+        "description": "1998 год. HALF-LIFE шокирует игровую индустрию сочетанием напряженного действия и непрерывного, затягивающего сюжета. Дебютная игра Valve завоевала свыше 50 наград «Игра года» на пути к получению титула «Лучшая игра для РС всех времен» от PC Gamer; она раскрутила франшизу, которая продала свыше восьми миллионов коробочных версий по всему..."
+    },
+    {
+        "name": "MudRunner",
+        "preview_img": "/games/MudRunner/images/header.jpg",
+        "url": "/games/MudRunner/mudrunner.html",
+        "price": 1199,
+        "tags": "Бездорожье, симулятор, автосимулятор",
+        "score": 4.5,
+        "game_row": null,
+        "description": "MudRunner — это бескомпромиссные гонки по бездорожью, в которых вам предстоит покорять экстремальное сибирское бездорожье за рулем навороченного транспорта повышенной проходимости, имея при себе лишь карту и компас!"
+    },
+    {
+        "name": "Euro Truck Simulator 2",
+        "preview_img": "/games/Euro_Truck_Simulator_2/images/header.jpg",
+        "url": "/games/Euro_Truck_Simulator_2/euro_truck_simulator_2.html",
+        "price": 1249,
+        "tags": "Вождение, транспорт, симулятор, реализм",
+        "score": 4.8,
+        "game_row": null,
+        "description": "Станьте королем европейских дорог — водителем грузовика, который доставляет важные грузы на немалые расстояния! Вас ждут десятки городов Великобритании, Бельгии, Германии, Италии, Нидерландов, Польши и не только. Испытайте свои умения, выносливость и скорость."
+    },
+    {
+        "name": "Spaceflight Simulator",
+        "preview_img": "/games/Spaceflight_Simulator/images/header.jpg",
+        "url": "/games/Spaceflight_Simulator/spaceflight_simulator.html",
+        "price": 199,
+        "tags": "Песочница, космический симулятор, симулятор",
+        "score": 4.8,
+        "game_row": null,
+        "description": "In Spaceflight Simulator, you will get to build your rockets, plan launches and flights, attempt landings, deploy payloads and explore new worlds."
+    },
+    {
+        "name": "Ready or Not",
+        "preview_img": "/games/Ready_or_Not/images/header.jpg",
+        "url": "/games/Ready_or_Not/ready_or_not.html",
+        "price": 199,
+        "tags": "Тактика, реализм, шутер от первого лица, бой",
+        "score": 4.8,
+        "game_row": null,
+        "description": "Лос-Суэнос. Полиция Лос-Суэноса сообщает о всплеске преступности в городе. Отряды спецназа направлены для урегулирования таких опасных ситуаций, как захват заложников, угрозы взрыва и перестрелки с подозреваемыми."
+    }
+]
